@@ -1,0 +1,7 @@
+Material My Material : Common/MatDefs/Misc/UnshadedNodes.j3md {
+     MaterialParameters {
+        ColorMap : Flip Repeat Textures/Sand.jpg
+     }
+    AdditionalRenderState {
+    }
+}
